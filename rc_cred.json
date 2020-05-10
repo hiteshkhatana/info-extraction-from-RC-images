@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "enduring-plate-273315",
+  "private_key_id": "2eeb579bebc4ef8ede489aec4382b2431b7a9a11",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDC6Wd+5HWAWsAg\nnH+cGFrRuwTi/R4VCFJv+u7F8eiWbQBZA96alqIHgzdT4c6HcIOwItfUDzr/B43n\nWsO18h/Z9mBbEaAanhVypDSpTnQPbDhwvUNYkeHBaBWoumQjmWjCQU+Qh4C3JdCi\ni4XXp6G0Pqkkg9xov9xY/n179ByArVMGPVNUkoRhefRPd6WuLOiTNeY1igHU8mWj\nlnT4yZh8BmD81viJ3XCixrWiEAssTRKpEIed8ErOInQGC+5oaHi2C/7zFryFwmvS\nTYBHQ4DQR8dFPPEzPkNR9zs0OHPSH3FaCwwkdpuqLu8oW4Jk8jLyNAx7kfhF6Yck\np6+udptJAgMBAAECggEADy3Nl0pz4x3OIgwF/RJBel1R5Vp4bgNipiFY2HX9Gr/c\n29HLE2dhMWwU0jW+13nZ64zfGX7hJYzBTo/ZN3FmbRs8iEMQYJpIic/DYR8At1XC\ndHcsyDg+KElyjFwNod8X0y7yYwtGaRzrCUmL0A5YL7kEg5k4QDkW0CBrhcxuLtAN\n30qGet4gXWaTD4XFyAuz0JdM9A9La5S+d65RbYvMaNnwRitSm3cXhPXtKuWSMWJy\nM+rKoSqsPtLcDryZDG/VwQehW0tH6YyKtBhD5uZ+VnvtT/iwxpHdZebhnZhS50Ex\nFenTF3d9CCbwcAY4iDeNom9UhoxvW4YVQLBhJcfSIQKBgQDkBsB+9QuFZ9r3QUBH\nfqjQRKl1vo2vtqaLCWkqvjNpyIG4UsPyUh7647/IiQI5n54lbRkj1F3kkb844uES\nD4hf5WltWEBuhtAwlZVOEnSPk1yfTKTtTGiEOpqoktW4Q9682lxld+eYcPr6Bule\nUjNV8tGe0P6ern+sNmDyVhU9kQKBgQDa0qzuYtUerKE1wXGGWN+BKZaIGMYzM5Fv\nUMRjmorZQpRwrmiBu510ulPNHiIXRebWV+r5GdLu/r/ORkiadhlU3/bnlNx9Ldwi\n2lvg1vpxiKVLaeQIGh2dGFNhVnA2h5B0I6UFLzgmQ+AzIRY4qqxpgbMpXjw6aDRC\nPrzSlGKGOQKBgQCjPMIpILsysXprbubZR68KCV1W0ScVFyh6eC41Txv3KnbSwU1M\n98T9znTI1mwlXEMWf9dzcuAUdNHzo1eEWmJCZDTo9jiJ5zC61xqfXU7cSZ4Q3All\nZ0GbB2kYLKWa19toTtm+OewtkRPaUYBW6Xmemcm+a9cbOchkPDmCwmVKQQKBgCoM\n5jKBR5c3cVtVKy24EmtNxKGusRfRxxbvHG5PmnMZulDVEzwrA50U2VnHeqGiSzPR\nfVQVRFWtGsrW8sjL/R40U8w47Q4ZK/5+m71fUo1SxwDw/mMYMayoqg1AgRvZfUb0\nOpf+dPnVfVYV+6E0GyHDTNycQVKwB6rbR4nn/e7xAoGAZUP+ocYtViRM9BnxQFLo\naWY0Vlxv2fqVh2MEsKtXnYf/a7Cd6JWKN2c8G0xr45mwhBzUvDYR+U6WgK3tEL6Z\ntTFY5WfK0Se/9kqxbmxgRgA9O4XrOINUgh2hFCGp73987+Rowgl6k+axVxQeEDu/\nYUa0cjhf8AwP+W8cTpD5NkI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "rc-project@enduring-plate-273315.iam.gserviceaccount.com",
+  "client_id": "107875005135408483928",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rc-project%40enduring-plate-273315.iam.gserviceaccount.com"
+}
