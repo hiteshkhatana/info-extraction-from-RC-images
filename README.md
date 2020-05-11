@@ -3,7 +3,7 @@
 
 1) Simple Computer vision project for extracting some required information from images of RC's.
 
-2) Google vision api is used for detecting text from image and converting those text into digital text.
+2) [Google vision api](https://cloud.google.com/vision) is used for detecting text from image and converting those text into digital text.
 
 3) rc_cred.json is the credential file for accessing the api.
 
